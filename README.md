@@ -4,6 +4,9 @@
 Platform: WEBGL<br>
 Type: First Person Shooter<br>
 Engine: Unity Engine<br>
+Multiplayer: Photon
+
 
 <h2>Game play</h2>
-Gameplay: Multiplayer
+Gameplay type: PVP, PVE<br>
+Graphics style: Low poly
