@@ -1,2 +1,1 @@
-# FPSGame
-A fps browser game
+FPS Game
